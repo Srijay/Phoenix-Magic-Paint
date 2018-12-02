@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/about_us"
+        android:icon="@drawable/om"
+        android:title="About Me"
+        />
+    <item android:id="@+id/help"
+        android:icon="@drawable/om"
+        android:title="Help"
+        />
+    <item android:id="@+id/recommendations"
+        android:icon="@drawable/om"
+        android:title="Suggestions"
+        />
+</menu>

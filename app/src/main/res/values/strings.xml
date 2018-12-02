@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Magic Paint</string>
+    <string name="spinner_title">SELECT YOUR FAVOURITE PAINTING STYLE</string>
+    <string name="about_me">
+
+         \n
+
+         SRIJAY DESHPANDE \n \n \n \n \n \n \n \n \n \n \n \n \n \n
+
+        MACHINE LEARNING ENTHUSIAST \n \n
+        Contact Number - 9561217006 \n \n
+        Mail - deshpandesrijay@gmail.com \n \n
+
+    </string>
+
+    <string name="about_help">
+
+        This app will paint the image into the artistic style you want or to style of some world famous painting. Please follow these steps to operate the app -
+        \n
+        \n
+        1. Select the painting style of your wish from the available styles by pressing the button on top. Default style is "CRAYONS".
+        \n
+        2. Select the image from gallery by pressing button at bottom "SELECT IMAGE AND SEE THE MAGIC".
+        \n
+        3. Thats it, you will see the selected image in your selected style !! Now TAP on the gererated image to save it in gallery.
+        \n
+        4. You can also view the selected image in different styles by toggling the style on the top!!
+
+    </string>
+
+    <string name="about_recom">
+        \n
+        Some hints for what style you must select for image -
+        \n \n \n
+        1. Use app generally for Scenery Images
+        \n \n
+        2. To see how child would have drawn painting, use "CRAYONS"
+        \n \n
+        2. To check how image looks if painted considering snowy weather, select "WATER WAVES"
+        \n \n
+        3. If you are sensitive about sharp edges, use "WASSILY KANDINSKY" !
+        \n \n
+        4. To get feel of ghostly night, select "STARRY NIGHT"
+        \n
+
+
+    </string>
+</resources>
